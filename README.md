@@ -47,6 +47,10 @@ Concatenando os arquivos para incluir em meu Curriculo
  ### DIO - BootCamp 
 
   * Digital Innovation One - Boas-vindas ao Bootcamp Banco Carrefour Data Engineer - A52A8F66 - 20/06/2021
+
+## Kaggle
+
+ * Python 
   
   -------------------------
 
