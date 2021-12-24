@@ -37,11 +37,12 @@ Concatenando os arquivos para incluir em meu Curriculo
  * Digital Innovation One - Introdução ao Node.js com - 1E8A86D6 - 12/09/2021
  * Digital Innovation One - Introdução ao MongoDB e Bancos de Dados NoSQL - D855E327 - 12/09/2021
  * Digital Innovation One - Governança de Dados - C4E43AFC - 13/09/2021
- * Digital Innovation One -Introdução prática a computação em nuvem usando AWS - AD75AE32 - 26/09/2021
+ * Digital Innovation One - Introdução prática a computação em nuvem usando AWS - AD75AE32 - 26/09/2021
  * Digital Innovation One - Introdução a orquestração de contêineres com Docker - 78D5CDFF - 19/10/2021
  * Digital Innovation One - Segurança da informação com Python - 7FDEFB58 - 16/11/2021
  * Digital Innovation One - Arquitetura e Modelagem de Dados - 0A87DDD3 - 25/11/2021
  * Digital Innovation One - Fundamentos de ETL com Python - D1095DD0 - 25/11/2021
+ * Digital Innovation One - Processando grandes conjuntos de dados de forma paralela e distribuída com Spark 24/12/2021
 
  
  ### DIO - BootCamp 
@@ -50,7 +51,7 @@ Concatenando os arquivos para incluir em meu Curriculo
 
 ## Kaggle
 
- * Python 
+ * Python - 23/12/2021
   
   -------------------------
 
