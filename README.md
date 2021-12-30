@@ -43,6 +43,7 @@ Concatenando os arquivos para incluir em meu Curriculo
  * Digital Innovation One - Arquitetura e Modelagem de Dados - 0A87DDD3 - 25/11/2021
  * Digital Innovation One - Fundamentos de ETL com Python - D1095DD0 - 25/11/2021
  * Digital Innovation One - Processando grandes conjuntos de dados de forma paralela e distribuída com Spark 24/12/2021
+ * Digital Innovation One - Monitoramento de Clusters Hadoop de alto nível com HDFS e YARN - 6A6B1633 30/12/2021
 
  
  ### DIO - BootCamp 
