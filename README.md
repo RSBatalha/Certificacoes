@@ -8,18 +8,18 @@ Concatenando os arquivos para incluir em meu Curriculo
 ## AWS 
 
  * AWS - Introduction to Serverless Development 16/08/2021
- * AWS Foundations- Machine Learning Basics - 17/08/2021
+ * AWS - Foundations- Machine Learning Basics - 17/08/2021
  * AWS - Migrating from MySQL to Amazon RDS - 18/08/2021
  * AWS - What is Machine Learning - 20/08/2021
- * AWS- What is Artificial Intelligence - 20/08/2021
- * AWS- What is Deep Learning - 20/08/2021
+ * AWS - What is Artificial Intelligence - 20/08/2021
+ * AWS - What is Deep Learning - 20/08/2021
  * AWS - Demystifying - AI - ML - DL - 20/08/2021  
  * AWS - Cloud Practitioner Essentials 2ed - introduction - 22/08/2021
  * AWS - Cloud Practitioner Essentials 2ed - Arquitetura AWS - 22/08/2021
  * AWS - Cloud Practitioner Essentials 2ed - AWS Products - 22/08/2021
  * AWS - Cloud Practitioner Essentials 2ed - AWS Security - 23/08/2021
- * AWS Cloud Pactitioner Essentials 2ed - AWS Products - 27/08/2021
- * AWS Cloud Practioner Essentials - 2ed Definição de preço e suporte - 31/08/2021
+ * AWS - Cloud Pactitioner Essentials 2ed - AWS Products - 27/08/2021
+ * AWS - Cloud Practioner Essentials - 2ed Definição de preço e suporte - 31/08/2021
 
 --------------------------
 ## DIO - Digital Innovation One 
@@ -44,6 +44,7 @@ Concatenando os arquivos para incluir em meu Curriculo
  * Digital Innovation One - Fundamentos de ETL com Python - D1095DD0 - 25/11/2021
  * Digital Innovation One - Processando grandes conjuntos de dados de forma paralela e distribuída com Spark 24/12/2021
  * Digital Innovation One - Monitoramento de Clusters Hadoop de alto nível com HDFS e YARN - 6A6B1633 30/12/2021
+ * Digital Innovation One - Orquestrando ambientes de Big Data distribuidos - Zookeeper - Yarn e Sqoop - 37C08FAB 31/12/2021
 
  
  ### DIO - BootCamp 
