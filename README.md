@@ -1,6 +1,6 @@
 # Certificações e Cursos Realizados
 
-Concatenando os arquivos para incluir em meu Curriculo - os links levam aos Certificados
+Concatenando os arquivos para incluir em meu Curriculo
 
 # Cursos realizados
 
@@ -16,11 +16,27 @@ Concatenando os arquivos para incluir em meu Curriculo - os links levam aos Cert
 
  * Python - 23/12/2021 **[Python](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Kaggle/Kaggle%20-%20Rogerio%20de%20Souza%20Batalha%20-%20Python.png)**
 
-----
+------
 
 ## Neo4J
 
  * Neo4j Fundamentals 04/10/2022 **[Neo4j Fundamentals](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Neo4j/Neo4j%20Fundamentals.png)**
+
+------
+
+## KubeAcademy
+
+  * Getting Started with Kubernetes
+  * Containers 101
+  * Kubernetes 101
+  * Building Applications for Kubernetes 
+  * Hands-On with Kubernetes and Containers
+  * Introduction to Kubernetes for the Virtual Infrastructure Administrator
+  * Interactive Introduction to Containers and Kubernetes
+  * The Business Case for Kubernetes
+  * Kubernetes in Depth
+  * Kubernetes Platform Security
+  * Introduction To Building Application Platforms with Kubernetes 
 
 
 ## AWS
