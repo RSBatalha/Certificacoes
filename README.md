@@ -106,6 +106,8 @@ Concatenando os arquivos para incluir em meu Curriculo
   * DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 **[Data Science Hands-On wiyh Open Source Tools](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
   * DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 **[DS0301EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
   * RP0101EN - R 101 - Cognitive Class - 13/10/2019 **[RP0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)**
+  * IBM - Artificial Intelligence Concepts**[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
+  
   
 ### Badges
 
