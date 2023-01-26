@@ -15,6 +15,7 @@ Concatenando os arquivos para incluir em meu Curriculo
 ## Kaggle
 
  * Python - 23/12/2021 **[Python](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Kaggle/Kaggle%20-%20Rogerio%20de%20Souza%20Batalha%20-%20Python.png)**
+ * Introduction to Machine Learning - 26/01/2023 **[Introduction to Machine Learning](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Kaggle/Kaggle%20-%20Introduction_to_Machine_learning-26-01-2023.png)**
 
 ------
 
