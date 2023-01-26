@@ -31,6 +31,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Containers 101
   * Kubernetes 101
   * Building Applications for Kubernetes 
+  * Building Images
   * Hands-On with Kubernetes and Containers
   * Introduction to Kubernetes for the Virtual Infrastructure Administrator
   * Interactive Introduction to Containers and Kubernetes
@@ -38,6 +39,9 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Kubernetes in Depth
   * Kubernetes Platform Security
   * Introduction To Building Application Platforms with Kubernetes 
+  * Kubernetes Core Concepts: Part 1- Platform
+  * Tanzu for Kubernetes Operations: Preparation and Prerequisites
+  * Tanzu Application Platform: Overview
 
 
 ## AWS
