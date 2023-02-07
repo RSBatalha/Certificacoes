@@ -121,3 +121,4 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Python for Data Science by IBM - Cognitive Class - 10/09/2019 **[Python for Data Science](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Python%20for%20Data%20Science%20by%20IBM%20-%20Cognitive%20Class.png)**
   * Big Data Foundations - Level 1 - Cognitive Class - 21/10/2019 **[Big Data Foundations - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Big%20Data%20Foundations%20-%20Level%201%20-%20Cognitive%20Class.png)**
   * Data Science for Business - Level 1 - Cognitive Class - 04/11/2019 **[Data Science for Business - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20for%20Business%20-%20Level%201%20-%20Cognitive%20Class.png)**
+  * Data Science Technologies - Cognitive Class - 06/02/2023 **[Data Science Technologies - Cognitive Class](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data_Science_Methodologies.png)** 
