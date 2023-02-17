@@ -113,6 +113,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * RP0101EN - R 101 - Cognitive Class - 13/10/2019 **[RP0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)**
   * IBM - Artificial Intelligence Concepts 09/01/2023 **[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
   * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023  **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
+  * Voice Assistant OpenAI with IBM Watson**[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
   
   
 ### Badges
