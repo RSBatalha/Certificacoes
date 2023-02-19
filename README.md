@@ -114,6 +114,9 @@ Concatenando os arquivos para incluir em meu Curriculo
   * IBM - Artificial Intelligence Concepts 09/01/2023 **[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
   * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023  **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
   * Voice Assistant OpenAI with IBM Watson **[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
+  * IBM - Watson Openscale Foundations **[IBM - Watson Openscale Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)**
+
+
   
   
 ### Badges
@@ -125,3 +128,4 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Data Science for Business - Level 1 - Cognitive Class - 04/11/2019 **[Data Science for Business - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20for%20Business%20-%20Level%201%20-%20Cognitive%20Class.png)**
   * Data Science Technologies - Cognitive Class - 06/02/2023 **[Data Science Technologies - Cognitive Class](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data_Science_Methodologies.png)** 
   * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Badge-%20%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
+  * Badge - Watson Openscale Foundations **[Badge - Watson Openscale Foundations ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge_Watson_OpenScale_Foundations.png)**
