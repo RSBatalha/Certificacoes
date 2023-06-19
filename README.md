@@ -132,3 +132,4 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Data Science Technologies - Cognitive Class - 06/02/2023 **[Data Science Technologies - Cognitive Class](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data_Science_Methodologies.png)** 
   * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Badge-%20%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
   * Badge - Watson Openscale Foundations **[Badge - Watson Openscale Foundations ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge_Watson_OpenScale_Foundations.png)**
+  * Badge - Data Analysis using Python - 18/06/2023 **[Badge - Data Analysis using Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%2520-%2520%250AData%2520Analysis%2520Using%2520Python.jpeg)**
