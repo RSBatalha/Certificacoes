@@ -116,7 +116,8 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Voice Assistant OpenAI with IBM Watson - 08/03/2023  **[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
   * IBM - Watson Openscale Foundations - 19/02/2023 **[IBM - Watson Openscale Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)**
   * IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 **[Improve Customer Support with AI-powered Voice Services](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)**
-  * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations]**(https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)
+  * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)**
+  * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
 
 
   
