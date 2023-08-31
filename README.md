@@ -92,7 +92,19 @@ Concatenando os arquivos para incluir em meu Curriculo
 
   *  DIO -  Boas-vindas ao Bootcamp Banco Carrefour Data Engineer - A52A8F66 - 20/06/2021 **[BootCamp Carrefour](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Digital%20Innovation%20One/Digital%20Innovation%20One%20-%20Boas-vindas%20ao%20Bootcamp%20Banco%20Carrefour%20Data%20Engineer%20-%20A52A8F66.jpg)
   
-  -------------------------
+-------------------------
+
+# Financeiro
+
+## Genial Investimentos 
+
+* Combo Trader Genial [Combo Trader Genial](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/ComboTraderGenial.png)
+* Aprenda a Investir nos EUA [Aprenda a Investir nos EUA](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Aprenda_investir_EUA.png)
+* Lucrando com Operações Estruturadas [Operações Estruturadas](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Lucrando_Operacoes_estruturadas.png)
+* Opções - Mini Dolar [Mini Dolar](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Op%C3%A7%C3%B5es_Mini_Dolar.png)
+
+
+-------------------------
 
 # Certificações
 
