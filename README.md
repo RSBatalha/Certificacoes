@@ -102,6 +102,9 @@ Concatenando os arquivos para incluir em meu Curriculo
 * Aprenda a Investir nos EUA [Aprenda a Investir nos EUA](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Aprenda_investir_EUA.png)
 * Lucrando com Operações Estruturadas [Operações Estruturadas](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Lucrando_Operacoes_estruturadas.png)
 * Opções - Mini Dolar [Mini Dolar](https://github.com/RSBatalha/Certificacoes/blob/78ed6a1265c057d59eb1a1886f0055df7daeaef7/Cursos/Financeiro/Genial_Investimentos/Op%C3%A7%C3%B5es_Mini_Dolar.png)
+* Aprenda a operar microcontratos de S&P500[Aprenda a operar microcontratos de S&P500](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Financeiro/Genial_Investimentos/Aprenda%20a%20operar%20microcontratos%20de%20S%26P500.png)
+* ETFs: Construção de patrimônio com Fundos de Índices[ETFs](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Financeiro/Genial_Investimentos/ETFs%3A%20Constru%C3%A7%C3%A3o%20de%20patrim%C3%B4nio%20com%20Fundos%20de%20%C3%8Dndices.png)
+* Fundos Imobiliários: aluguéis recorrentes sem precisar comprar imóveis[Fundos Imobiliários](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Financeiro/Genial_Investimentos/Fundos%20Imobili%C3%A1rios%3A%20alugu%C3%A9is%20recorrentes%20sem%20precisar%20comprar%20im%C3%B3veis.png)
 
 
 -------------------------
