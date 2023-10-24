@@ -134,6 +134,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)**
   * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
   * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
+  * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
 
 
   
