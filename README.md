@@ -135,6 +135,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
   * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
   * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
+  * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
 
 
   
@@ -158,3 +159,5 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Badge - Watson Openscale Foundations - 19/02/2023 **[Badge - Watson Openscale Foundations ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge_Watson_OpenScale_Foundations.jpeg)** ou **[Badge - Watson Openscale Foundations ](https://www.credly.com/badges/2d4ad388-e024-4fae-ae24-f2f73e7676ce/public_url)**
     <!--- Data Analysis using Python  --->
   * Badge - Data Analysis using Python - 18/06/2023 **[Badge - Data Analysis using Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%2520-%2520%250AData%2520Analysis%2520Using%2520Python.jpeg)** ou **[Badge - Data Analysis using Python](https://www.credly.com/badges/8b2b3e8e-0f18-4e88-9fc6-5d02790cdb92/public_url)**
+       <!--- Data Visualization using Python  --->
+  * Badge - Data Visualization with Python - 31/20/2023 **[Badge - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Visualization%20using%20Python%20-%20CognitiveClass.ai.png)** ou **[Data Visualization with Python](https://www.credly.com/badges/d664ba76-0946-4921-9bc0-69635caa5250)**
