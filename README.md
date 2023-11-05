@@ -136,7 +136,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
   * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
   * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression]()**
+  * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)**
 
 
   
