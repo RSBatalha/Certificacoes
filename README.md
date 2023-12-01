@@ -137,7 +137,8 @@ Concatenando os arquivos para incluir em meu Curriculo
   * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
   * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
   * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)**
-  * IBM - PA0101EN - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 **[PA0101EN - Predictive Modeling Fundamentals I](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)** 
+  * IBM - PA0101EN - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 **[PA0101EN - Predictive Modeling Fundamentals I](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)**
+  * IBM - QC0101EN - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 **[QC0101EN - Introduction to Quantum Computing ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)**
 
 
   
