@@ -2,7 +2,89 @@
 
 Concatenando os arquivos para incluir em meu Curriculo
 
+
+
+
+-------------------------
+
+# Certificações
+
+## Cisco - Fortinet
+
+ * Fortinet - Information Security Awareness - 04/05/2021 **[Fortinet - Information Security Awareness](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20Information%20Security%20Awareness.png)**
+ * Fortinet - NSE 1 - Network Security Associate - 04/04/2021 **[NS1](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%201%20-%20Network%20Security%20Associate.png)**
+ * Fortinet - NSE 2 - Network Security Associate - 06/04/2021 **[NS2](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%202%20-%20Network%20Security%20Associate.png)**
+ * Fortinet - NSE 3 - Network Security Associate - 29/07/2022 **[NS3](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%203%20-%20Network%20Security%20Associate.png)**
+ 
+ ## IBM
+
+  * BD0101EN - Big Data 101 - Cognitive Class - 22/10/2019 **[BD0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/BD0101EN%20-%20Big%20Data%20101%20-%20Cognitive%20Class.png)**
+  * DS0101EN - Introduction to  Data Science - Cognitive Class - 24/07/2019 **[DS0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0101EN%20-%20Introduction%20to%20%20Data%20Science%20-%20Cognitive%20Class.png)**
+  * DS0103EN - Data Science Methodology - Cognitive Class - 12/08/2019 **[DS0103EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0103EN%20-%20Data%20Science%20Methodology%20-%20Cognitive%20Class.png)**
+  * DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 **[Data Science Hands-On wiyh Open Source Tools](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
+  * DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 **[DS0301EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
+  * RP0101EN - R 101 - Cognitive Class - 13/10/2019 **[RP0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)**
+  * IBM - Artificial Intelligence Concepts 09/01/2023 **[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
+  * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023  **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
+  * Voice Assistant OpenAI with IBM Watson - 08/03/2023  **[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
+  * IBM - Watson Openscale Foundations - 19/02/2023 **[IBM - Watson Openscale Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)**
+  * IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 **[Improve Customer Support with AI-powered Voice Services](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)**
+  * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)**
+  * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
+  * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
+  * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
+  * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
+  * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)**
+  * IBM - PA0101EN - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 **[PA0101EN - Predictive Modeling Fundamentals I](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)**
+  * IBM - QC0101EN - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 **[QC0101EN - Introduction to Quantum Computing ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)**
+  * IBM - SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques - Cognitive Class - 22/12/2023 **[SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/SE0101EN%20-%20Fundamentals%20of%20Encryption%20%26%20Quantum-Safe%20Techniques%20-%20Cognitive%20Class.png)**
+
+
+  
+  
+### Badges
+
+  * Badge - Data Science Foundations - Level 1 - Cognitive Class - 23/07/2019 **[Data Science Foundations - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20Foundations%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Data Science Foundations - Level 1](https://www.credly.com/badges/962561f5-4da8-4223-b97c-929731bdc9f0/public_url )**
+   <!---  Data Science Foundations - Level 2 (V2) --->
+  * Badge - Data Science Foundations - Level 2 (V2) - Cognitive Class - 12/08/2019 **[Data Science Foundations - Level 2 (V2)](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20Foundations%20-%20Level%202%20(V2)%20-%20Cognitive%20Class.png)** ou   **[Data Science Foundations - Level 2 (V2)]( https://www.credly.com/badges/e417d781-cfa9-4269-88db-a340409a3780/public_url )**
+    <!--- Python for Data Science by IBM  --->
+  * Badge - Python for Data Science by IBM - Cognitive Class - 10/09/2019 **[Python for Data Science](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Python%20for%20Data%20Science%20by%20IBM%20-%20Cognitive%20Class.png)** ou __[Badge Python for Data Science ](https://www.credly.com/badges/bda44e46-8d29-4839-982e-d04db6a6611d/public_url)__
+    <!--- Big Data Foundations - Level 1  --->
+  * Badge - Big Data Foundations - Level 1 - Cognitive Class - 21/10/2019 **[Big Data Foundations - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Big%20Data%20Foundations%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Badge - Big Data Foundations - Level 1](https://www.credly.com/badges/c3f0950d-cf9d-47e2-91c6-cbfbe01ca8a4/public_url )**
+    <!--- Data Science for Business - Level 1 --->
+  * Badge - Data Science for Business - Level 1 - Cognitive Class - 04/11/2019 **[Badge - Data Science for Business - Level 1 ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20for%20Business%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Data Science for Business - Level 1](https://www.credly.com/badges/d8974140-654a-4031-b834-2d12f02d3065/public_url  )**
+    <!--- Data Science Technologies - --->
+  * Badge - Data Science Technologies - Cognitive Class - 06/02/2023 **[Data Science Technologies - Cognitive Class](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data_Science_Methodologies.png)** ou **[Data Science Technologies - Cognitive Class](https://www.credly.com/badges/9487d9de-30f3-4bb2-a0ef-810442f8cd53/public_url)**
+    <!--- CO0101EN - Docker Essentials, A Developer Introduction --->
+  * Badge - CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Badge-%20%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)** ou **[CO0101EN - Docker Essentials](https://www.credly.com/badges/e16d4427-c88a-4ae1-a051-f413ff7645a1/public_url)**
+    <!--- Watson Openscale Foundations --->
+  * Badge - Watson Openscale Foundations - 19/02/2023 **[Badge - Watson Openscale Foundations ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge_Watson_OpenScale_Foundations.jpeg)** ou **[Badge - Watson Openscale Foundations ](https://www.credly.com/badges/2d4ad388-e024-4fae-ae24-f2f73e7676ce/public_url)**
+    <!--- Data Analysis using Python  --->
+  * Badge - Data Analysis using Python - 18/06/2023 **[Badge - Data Analysis using Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%2520-%2520%250AData%2520Analysis%2520Using%2520Python.jpeg)** ou **[Badge - Data Analysis using Python](https://www.credly.com/badges/8b2b3e8e-0f18-4e88-9fc6-5d02790cdb92/public_url)**
+       <!--- Data Visualization using Python  --->
+  * Badge - Data Visualization with Python - 31/10/2023 **[Badge - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Visualization%20using%20Python%20-%20CognitiveClass.ai.png)** ou **[Data Visualization with Python](https://www.credly.com/badges/d664ba76-0946-4921-9bc0-69635caa5250)**
+  * Badge - Data Science for Business - Level 2 - 21/11/2023 **[Data Science for Business - Level 2](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Science%20for%20Business%20-%20Level%202%20-%20%20CognitiveClass.ai.png)** ou **[Data Science for Business - Level 2](https://www.credly.com/badges/225e0553-d4bc-463b-b85f-e55219612434)**
+  * Badge - Quantum-Safe Encryption Essentials - 22/12/2023 **[Quantum-Safe Encryption Essentials](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/Badge%20-%20Quantum-Safe%20Encryption%20Essentials.png)** ou **[Quantum-Safe Encryption Essentials](https://www.credly.com/badges/3b0669b5-995d-4ae1-8cae-284180d0c52a)**
+
+
 # Cursos realizados
+
+--------
+
+## Google 
+
+ * Introduction to Responsible AI - 04/08/2023 **[Introduction to Responsible AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550466)
+
+ * Introduction to Generative AI - 04/08/2023 **[Introduction to Generative AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550327)
+
+ * Introduction to Large Language Models - 06/08/2023 **[Introduction to Large Language Models]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4569701)
+
+ * Generative AI Fundamentals - 07/08/2023 **[Generative AI Fundamentals]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4579902)
+ 
+ * Introduction to Image Generation - 07/09/2023 **[Introduction to Image Generation]** (https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/5988184) 
+
+ 
+
 
 --------
 
@@ -107,63 +189,3 @@ Concatenando os arquivos para incluir em meu Curriculo
 * Fundos Imobiliários: aluguéis recorrentes sem precisar comprar imóveis[Fundos Imobiliários](https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Financeiro/Genial_Investimentos/Fundos%20Imobili%C3%A1rios%3A%20alugu%C3%A9is%20recorrentes%20sem%20precisar%20comprar%20im%C3%B3veis.png)
 
 
--------------------------
-
-# Certificações
-
-## Cisco - Fortinet
-
- * Fortinet - Information Security Awareness - 04/05/2021 **[Fortinet - Information Security Awareness](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20Information%20Security%20Awareness.png)**
- * Fortinet - NSE 1 - Network Security Associate - 04/04/2021 **[NS1](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%201%20-%20Network%20Security%20Associate.png)**
- * Fortinet - NSE 2 - Network Security Associate - 06/04/2021 **[NS2](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%202%20-%20Network%20Security%20Associate.png)**
- * Fortinet - NSE 3 - Network Security Associate - 29/07/2022 **[NS3](https://github.com/RSBatalha/Certificacoes/blob/main/Cisco/Fortinet%20-%20NSE%203%20-%20Network%20Security%20Associate.png)**
- 
- ## IBM
-
-  * BD0101EN - Big Data 101 - Cognitive Class - 22/10/2019 **[BD0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/BD0101EN%20-%20Big%20Data%20101%20-%20Cognitive%20Class.png)**
-  * DS0101EN - Introduction to  Data Science - Cognitive Class - 24/07/2019 **[DS0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0101EN%20-%20Introduction%20to%20%20Data%20Science%20-%20Cognitive%20Class.png)**
-  * DS0103EN - Data Science Methodology - Cognitive Class - 12/08/2019 **[DS0103EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0103EN%20-%20Data%20Science%20Methodology%20-%20Cognitive%20Class.png)**
-  * DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 **[Data Science Hands-On wiyh Open Source Tools](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
-  * DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 **[DS0301EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
-  * RP0101EN - R 101 - Cognitive Class - 13/10/2019 **[RP0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)**
-  * IBM - Artificial Intelligence Concepts 09/01/2023 **[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
-  * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023  **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
-  * Voice Assistant OpenAI with IBM Watson - 08/03/2023  **[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
-  * IBM - Watson Openscale Foundations - 19/02/2023 **[IBM - Watson Openscale Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)**
-  * IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 **[Improve Customer Support with AI-powered Voice Services](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)**
-  * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)**
-  * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
-  * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)**
-  * IBM - PA0101EN - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 **[PA0101EN - Predictive Modeling Fundamentals I](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)**
-  * IBM - QC0101EN - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 **[QC0101EN - Introduction to Quantum Computing ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)**
-  * IBM - SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques - Cognitive Class - 22/12/2023 **[SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/SE0101EN%20-%20Fundamentals%20of%20Encryption%20%26%20Quantum-Safe%20Techniques%20-%20Cognitive%20Class.png)**
-
-
-  
-  
-### Badges
-
-  * Badge - Data Science Foundations - Level 1 - Cognitive Class - 23/07/2019 **[Data Science Foundations - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20Foundations%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Data Science Foundations - Level 1](https://www.credly.com/badges/962561f5-4da8-4223-b97c-929731bdc9f0/public_url )**
-   <!---  Data Science Foundations - Level 2 (V2) --->
-  * Badge - Data Science Foundations - Level 2 (V2) - Cognitive Class - 12/08/2019 **[Data Science Foundations - Level 2 (V2)](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20Foundations%20-%20Level%202%20(V2)%20-%20Cognitive%20Class.png)** ou   **[Data Science Foundations - Level 2 (V2)]( https://www.credly.com/badges/e417d781-cfa9-4269-88db-a340409a3780/public_url )**
-    <!--- Python for Data Science by IBM  --->
-  * Badge - Python for Data Science by IBM - Cognitive Class - 10/09/2019 **[Python for Data Science](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Python%20for%20Data%20Science%20by%20IBM%20-%20Cognitive%20Class.png)** ou __[Badge Python for Data Science ](https://www.credly.com/badges/bda44e46-8d29-4839-982e-d04db6a6611d/public_url)__
-    <!--- Big Data Foundations - Level 1  --->
-  * Badge - Big Data Foundations - Level 1 - Cognitive Class - 21/10/2019 **[Big Data Foundations - Level 1](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Big%20Data%20Foundations%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Badge - Big Data Foundations - Level 1](https://www.credly.com/badges/c3f0950d-cf9d-47e2-91c6-cbfbe01ca8a4/public_url )**
-    <!--- Data Science for Business - Level 1 --->
-  * Badge - Data Science for Business - Level 1 - Cognitive Class - 04/11/2019 **[Badge - Data Science for Business - Level 1 ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Data%20Science%20for%20Business%20-%20Level%201%20-%20Cognitive%20Class.png)** ou **[Data Science for Business - Level 1](https://www.credly.com/badges/d8974140-654a-4031-b834-2d12f02d3065/public_url  )**
-    <!--- Data Science Technologies - --->
-  * Badge - Data Science Technologies - Cognitive Class - 06/02/2023 **[Data Science Technologies - Cognitive Class](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data_Science_Methodologies.png)** ou **[Data Science Technologies - Cognitive Class](https://www.credly.com/badges/9487d9de-30f3-4bb2-a0ef-810442f8cd53/public_url)**
-    <!--- CO0101EN - Docker Essentials, A Developer Introduction --->
-  * Badge - CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Badge-%20%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)** ou **[CO0101EN - Docker Essentials](https://www.credly.com/badges/e16d4427-c88a-4ae1-a051-f413ff7645a1/public_url)**
-    <!--- Watson Openscale Foundations --->
-  * Badge - Watson Openscale Foundations - 19/02/2023 **[Badge - Watson Openscale Foundations ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge_Watson_OpenScale_Foundations.jpeg)** ou **[Badge - Watson Openscale Foundations ](https://www.credly.com/badges/2d4ad388-e024-4fae-ae24-f2f73e7676ce/public_url)**
-    <!--- Data Analysis using Python  --->
-  * Badge - Data Analysis using Python - 18/06/2023 **[Badge - Data Analysis using Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%2520-%2520%250AData%2520Analysis%2520Using%2520Python.jpeg)** ou **[Badge - Data Analysis using Python](https://www.credly.com/badges/8b2b3e8e-0f18-4e88-9fc6-5d02790cdb92/public_url)**
-       <!--- Data Visualization using Python  --->
-  * Badge - Data Visualization with Python - 31/10/2023 **[Badge - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Visualization%20using%20Python%20-%20CognitiveClass.ai.png)** ou **[Data Visualization with Python](https://www.credly.com/badges/d664ba76-0946-4921-9bc0-69635caa5250)**
-  * Badge - Data Science for Business - Level 2 - 21/11/2023 **[Data Science for Business - Level 2](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Science%20for%20Business%20-%20Level%202%20-%20%20CognitiveClass.ai.png)** ou **[Data Science for Business - Level 2](https://www.credly.com/badges/225e0553-d4bc-463b-b85f-e55219612434)**
-  * Badge - Quantum-Safe Encryption Essentials - 22/12/2023 **[Quantum-Safe Encryption Essentials](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/Badge%20-%20Quantum-Safe%20Encryption%20Essentials.png)** ou **[Quantum-Safe Encryption Essentials](https://www.credly.com/badges/3b0669b5-995d-4ae1-8cae-284180d0c52a)**
