@@ -73,15 +73,15 @@ Concatenando os arquivos para incluir em meu Curriculo
 
 ## Google 
 
- * Introduction to Responsible AI - 04/08/2023 **[Introduction to Responsible AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550466)
+ * Introduction to Responsible AI - 04/08/2023 **[Introduction to Responsible AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550466) ou **[Introduction to Responsible AI]** (https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Google/Badge%20-%20Google%20-%20Introduction%20to%20Responsible%20AI.png)
 
- * Introduction to Generative AI - 04/08/2023 **[Introduction to Generative AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550327)
+ * Introduction to Generative AI - 04/08/2023 **[Introduction to Generative AI]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4550327) ou **[Introduction to Generative AI]**(https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Google/Badge%20-%20Google%20-%20Introduction%20to%20Generative%20AI%0A.png)
 
- * Introduction to Large Language Models - 06/08/2023 **[Introduction to Large Language Models]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4569701)
+ * Introduction to Large Language Models - 06/08/2023 **[Introduction to Large Language Models]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4569701) ou **[Introduction to Large Language Models]** (https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Google/Badge%20-%20Google%20-%20Introduction%20to%20Large%20Language%20Models.png)
 
- * Generative AI Fundamentals - 07/08/2023 **[Generative AI Fundamentals]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4579902)
+ * Generative AI Fundamentals - 07/08/2023 **[Generative AI Fundamentals]**(https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/4579902) ou **[Generative AI Fundamentals]**(https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Google/Badge%20-%20Google%20-%20Generative%20AI%20Fundamentals.png)
  
- * Introduction to Image Generation - 07/09/2023 **[Introduction to Image Generation]** (https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/5988184) 
+ * Introduction to Image Generation - 07/09/2023 **[Introduction to Image Generation]** (https://www.cloudskillsboost.google/public_profiles/a2ee351e-510b-43d8-9ec3-d25b87c25f5d/badges/5988184) ou **[Introduction to Image Generation]** (https://github.com/RSBatalha/Certificacoes/blob/main/Cursos/Google/Badge%20-%20Google%20-%20Introduction%20to%20Image%20Generation%0A.png)
 
  
 
