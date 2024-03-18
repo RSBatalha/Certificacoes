@@ -66,7 +66,8 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Badge - Data Science for Business - Level 2 - 21/11/2023 **[Data Science for Business - Level 2](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Badge%20-%20Data%20Science%20for%20Business%20-%20Level%202%20-%20%20CognitiveClass.ai.png)** ou **[Data Science for Business - Level 2](https://www.credly.com/badges/225e0553-d4bc-463b-b85f-e55219612434)**
   * Badge - Quantum-Safe Encryption Essentials - 22/12/2023 **[Quantum-Safe Encryption Essentials](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/Badge%20-%20Quantum-Safe%20Encryption%20Essentials.png)** ou **[Quantum-Safe Encryption Essentials](https://www.credly.com/badges/3b0669b5-995d-4ae1-8cae-284180d0c52a)**
   * Badge - IBM SkillsBuild - Artificial Intelligence Fundamentals - 23/02/2024 **[Artificial Intelligence Fundamentals ](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/Badge%20-%20IBM%20SkillsBuild%20-%20Artificial%20Intelligence%20Fundamentals.png)** ou **[Artificial Intelligence Fundamentals ](https://www.credly.com/badges/2158321d-530d-4c9f-aacd-92d9f828548f/public_url)**
-  * Badge - IBM SkillsBuild - Explore Emerging Tech - 06/03/2024 **[Explore Emerging Tech ](https://www.credly.com/badges/e5b8a9c2-47be-4989-8dc3-d778c56d3188)** 
+  * Badge - IBM SkillsBuild - Explore Emerging Tech - 06/03/2024 **[Explore Emerging Tech ](https://www.credly.com/badges/e5b8a9c2-47be-4989-8dc3-d778c56d3188)**
+  * Badge - IBM SkillsBuild - Enterprise Design Thinking Practitioner - 13/03/2024 **[Enterprise Design Thinking Practitioner ](https://www.credly.com/badges/bfec4096-38d1-41cd-b364-3f6a8f46479d)**
 
 
 
