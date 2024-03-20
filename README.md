@@ -68,6 +68,7 @@ Concatenando os arquivos para incluir em meu Curriculo
   * Badge - IBM SkillsBuild - Artificial Intelligence Fundamentals - 23/02/2024 **[Artificial Intelligence Fundamentals ](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/Badge%20-%20IBM%20SkillsBuild%20-%20Artificial%20Intelligence%20Fundamentals.png)** ou **[Artificial Intelligence Fundamentals ](https://www.credly.com/badges/2158321d-530d-4c9f-aacd-92d9f828548f/public_url)**
   * Badge - IBM SkillsBuild - Explore Emerging Tech - 06/03/2024 **[Explore Emerging Tech ](https://www.credly.com/badges/e5b8a9c2-47be-4989-8dc3-d778c56d3188)**
   * Badge - IBM SkillsBuild - Enterprise Design Thinking Practitioner - 13/03/2024 **[Enterprise Design Thinking Practitioner ](https://www.credly.com/badges/bfec4096-38d1-41cd-b364-3f6a8f46479d)**
+  * Badge - IBM SkillsBuild - Enterprise Design Thinking - Team Essentials for AI - 20/03/2024 **[Enterprise Design Thinking - Team Essentials for AI](https://www.credly.com/badges/95398aae-0c99-488b-adda-a9e7d0a39f82/public_url)**
 
 
 
