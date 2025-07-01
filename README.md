@@ -21,196 +21,200 @@ Concatenando os arquivos para incluir em meu Curriculo
 
 -   BD0101EN - Big Data 101 - Cognitive Class - 22/10/2019 [**BD0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/BD0101EN%20-%20Big%20Data%20101%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Introdução ao Big Data**: Conceitos fundamentais, características principais e os 5 V’s (Volume, Velocidade, Variedade, Veracidade e Valor), além de seu impacto nos negócios e na sociedade.
-    > -   **Aplicações e Fontes de Big Data**: Estudo de casos reais, principais fontes de dados e a evolução da adoção do Big Data nas organizações.
-    > -   **Big Data e Ciência de Dados**: Integração entre plataformas de Big Data e processos de Ciência de Dados, além das competências necessárias para cientistas de dados.
-    > -   **Casos de Uso Corporativos**: Aplicações práticas como visão 360° do cliente, segurança da informação, inteligência de mercado e análise de operações.
-    > -   **Tecnologias e Processamento de Dados**: Ecossistemas modernos de Big Data com foco no framework Hadoop e demais ferramentas de processamento massivo de dados.
+    > -   **Introduction to Big Data**: Fundamental concepts, main characteristics, and the 5 V’s (Volume, Velocity, Variety, Veracity, and Value), as well as its impact on business and society.
+    > -   **Applications and Sources of Big Data**: Case studies, main data sources, and the evolution of Big Data adoption in organizations.
+    > -   **Big Data and Data Science**: Integration between Big Data platforms and Data Science processes, including the skills required for data scientists.
+    > -   **Corporate Use Cases**: Practical applications such as 360° customer view, information security, market intelligence, and operations analysis.
+    > -   **Technologies and Data Processing**: Modern Big Data ecosystems focusing on the Hadoop framework and other large-scale data processing tools.
+
 
 -   DS0101EN - Introduction to Data Science - Cognitive Class - 24/07/2019 [**DS0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0101EN%20-%20Introduction%20to%20%20Data%20Science%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Conceitos Fundamentais**: Definição de ciência de dados, múltiplos caminhos de carreira na área, uso da computação em nuvem e a relevância crescente do papel do cientista de dados no cenário atual.
-    > -   **Rotina e Ferramentas**: Atividades diárias de um profissional da área, comparação entre R e Python, além das principais ferramentas e tecnologias utilizadas em projetos de ciência de dados.
-    > -   **Aplicações no Mundo Corporativo**: Como empresas podem adotar a ciência de dados, estratégias de recrutamento e definição de entregáveis em projetos analíticos.
-    > -   **Casos de Uso e Aplicações Práticas**: Exemplos reais de aplicação da ciência de dados em diversos contextos, incluindo estruturação de relatórios e geração de valor por meio da análise de dados.
-    > -   **Perfil Profissional**: Discussão sobre as competências, comportamentos e habilidades que definem um cientista de dados de sucesso.
+    > -   **Fundamental Concepts**: Definition of data science, multiple career paths in the field, use of cloud computing, and the growing relevance of the data scientist role today.
+    > -   **Daily Routine and Tools**: Daily activities of professionals, comparison between R and Python, and key tools and technologies used in data science projects.
+    > -   **Corporate Applications**: How companies adopt data science, recruitment strategies, and defining deliverables in analytical projects.
+    > -   **Use Cases and Practical Applications**: Real examples of data science applied in various contexts, including report structuring and value generation through data analysis.
+    > -   **Professional Profile**: Discussion of competencies, behaviors, and skills defining a successful data scientist.
+
 
 -   DS0103EN - Data Science Methodology - Cognitive Class - 12/08/2019 [**DS0103EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0103EN%20-%20Data%20Science%20Methodology%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Definição do Problema e Estratégia Analítica**: Técnicas para entender o contexto de negócio e transformar problemas reais em abordagens analíticas eficazes.
-    > -   **Coleta de Dados**: Identificação de requisitos e estratégias de aquisição de dados relevantes para análise.
-    > -   **Compreensão e Preparação dos Dados**: Análise exploratória e etapas de limpeza, transformação e formatação dos dados para modelagem.
-    > -   **Modelagem e Avaliação**: Construção de modelos estatísticos ou de machine learning e validação de sua performance.
-    > -   **Implementação e Feedback**: Implantação de soluções analíticas no ambiente de negócios e avaliação contínua por meio de feedback.
+    > -   **Problem Definition and Analytical Strategy**: Techniques to understand business context and convert real problems into effective analytical approaches.
+    > -   **Data Collection**: Identifying requirements and strategies for acquiring relevant data for analysis.
+    > -   **Data Understanding and Preparation**: Exploratory analysis and steps for cleaning, transforming, and formatting data for modeling.
+    > -   **Modeling and Evaluation**: Building statistical or machine learning models and validating their performance.
+    > -   **Implementation and Feedback**: Deploying analytical solutions in business environments and continuous evaluation through feedback.
+
 
 -   DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 [**Data Science Hands-On wiyh Open Source Tools**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Linguagens e Ferramentas Essenciais**: Introdução às principais linguagens utilizadas em ciência de dados, como Python e R, e suas aplicações práticas.
-    > -   **Ecossistema de Ciência de Dados**: Utilização de pacotes, APIs, conjuntos de dados e modelos, com foco na integração entre ferramentas.
-    > -   **Ambientes de Desenvolvimento**: Exploração de plataformas como GitHub, Jupyter Notebooks/JupyterLab, RStudio IDE e IBM Watson Studio, com foco em versionamento, colaboração e experimentação de projetos analíticos.
+    > -   **Essential Languages and Tools**: Introduction to main programming languages in data science, such as Python and R, and their practical applications.
+    > -   **Data Science Ecosystem**: Use of packages, APIs, datasets, and models with a focus on tool integration.
+    > -   **Development Environments**: Exploration of platforms like GitHub, Jupyter Notebooks/JupyterLab, RStudio IDE, and IBM Watson Studio, emphasizing version control, collaboration, and experimentation.
 
 -   PY0101EN - Python 101 for Data Science - Cognitive Class - 17/09/2019 [**PY0101EN - Python 101 for Data Science**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PY0101EN%20-%20Python%20101%20for%20Data%20Science%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Fundamentos da Linguagem Python**: Criação de programas básicos, tipos de dados, variáveis, expressões e manipulação de strings.
-    > -   **Estruturas de Dados**: Uso prático de listas, tuplas, conjuntos e dicionários para organização e processamento de informações.
-    > -   **Lógica de Programação**: Estruturas condicionais, laços de repetição, funções e introdução à programação orientada a objetos.
-    > -   **Manipulação de Dados com Python**: Leitura e escrita de arquivos, uso da biblioteca Pandas para carregamento, tratamento e exportação de dados.
-    > -   **NumPy e Integração com APIs**: Trabalho com arrays unidimensionais e bidimensionais usando NumPy e consumo de APIs simples com Python.
+    > -   **Python Language Fundamentals**: Creating basic programs, data types, variables, expressions, and string manipulation.
+    > -   **Data Structures**: Practical use of lists, tuples, sets, and dictionaries for organizing and processing information.
+    > -   **Programming Logic**: Conditional structures, loops, functions, and an introduction to object-oriented programming.
+    > -   **Data Handling with Python**: Reading and writing files, using the Pandas library for loading, processing, and exporting data.
+    > -   **NumPy and API Integration**: Working with one- and two-dimensional arrays using NumPy and consuming simple APIs with Python.
 
 -   DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 [**DS0301EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Leis de Privacidade no Canadá**: Introdução às normas canadenses de proteção de dados, incluindo análise do caso de vazamento de dados de empréstimos estudantis envolvendo o HRSDC.
-    > -   **PIPEDA e Regulação de Dados Pessoais**: Estudo da Lei de Proteção de Informações Pessoais e Documentos Eletrônicos (PIPEDA) e análise do caso Target, que expôs dados de milhões de clientes nos EUA.
-    > -   **Privacidade por Design**: Exploração dos 7 Princípios Fundamentais da Dra. Ann Cavoukian para integrar a privacidade à arquitetura de sistemas, com estudos de caso reais (Think W3 e Doritex).
-    > -   **Violações de Segurança e Senhas**: Impactos e vulnerabilidades relacionadas ao uso de senhas, ilustrados pelo caso Home Depot e seu vazamento massivo de dados de pagamento.
-
+    > -   **Privacy Laws in Canada**: Introduction to Canadian data protection standards, including analysis of a student loan data breach involving HRSDC.
+    > -   **PIPEDA and Personal Data Regulation**: Study of the Personal Information Protection and Electronic Documents Act and the Target data breach case affecting millions in the USA.
+    > -   **Privacy by Design**: Exploration of the 7 Fundamental Principles by Dr. Ann Cavoukian for integrating privacy into system architecture, with real case studies (Think W3 and Doritex).
+    > -   **Security Breaches and Passwords**: Impacts and vulnerabilities related to password use, illustrated by the Home Depot massive payment data breach.
+    
 -   RP0101EN - R 101 - Cognitive Class - 13/10/2019 [**RP0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Fundamentos da Linguagem R**: Conceitos matemáticos básicos, manipulação de variáveis, strings, vetores e fatores, além de operações vetoriais.
-    > -   **Estruturas de Dados em R**: Uso prático de arrays, matrizes, listas e dataframes para organização e análise de dados.
-    > -   **Programação em R**: Controle de fluxo com condições e laços, criação de funções, conceitos de orientação a objetos e técnicas de depuração.
-    > -   **Leitura e Escrita de Dados**: Importação de arquivos CSV, Excel e texto, além da exportação de objetos em diferentes formatos.
-    > -   **Trabalho com Strings e Datas**: Manipulação de textos com expressões regulares e tratamento de datas no ambiente R.
-
+    > -   **R Language Fundamentals**: Basic mathematical concepts, variable manipulation, strings, vectors, factors, and vector operations.
+    > -   **Data Structures in R**: Practical use of arrays, matrices, lists, and dataframes for data organization and analysis.
+    > -   **Programming in R**: Flow control with conditions and loops, function creation, object-oriented programming concepts, and debugging techniques.
+    > -   **Reading and Writing Data**: Importing CSV, Excel, and text files, as well as exporting objects in various formats.
+    > -   **Working with Strings and Dates**: Text manipulation with regular expressions and date handling in R.
+    
 -   IBM - Artificial Intelligence Concepts 09/01/2023 [**IBM - Artificial Intelligence Concepts**](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
 
 -   CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 [**CO0101EN - Docker Essentials**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Fundamentos de Contêineres e Docker**: Conceitos essenciais de contêineres, instalação do Docker, execução e gerenciamento de contêineres de forma prática.
-    > -   **Criação e Gerenciamento de Imagens Docker**: Desenvolvimento de aplicações com Python, construção de imagens Docker personalizadas, envio para registros centrais e versionamento de alterações com foco em práticas de CI/CD.
-    > -   **Orquestração com Docker Swarm**: Criação e gerenciamento de swarms, implantação de serviços distribuídos, escalonamento automático, atualizações contínuas e monitoramento de falhas.
-    > -   **Laboratórios Práticos e Avaliação Final**: Aplicação de conceitos por meio de laboratórios interativos e exame final para consolidação do aprendizado.
+    > -   **Container and Docker Fundamentals**: Essential container concepts, Docker installation, running, and managing containers practically.
+    > -   **Creating and Managing Docker Images**: Developing Python applications, building custom Docker images, pushing to central registries, and versioning changes focusing on CI/CD practices.
+    > -   **Orchestration with Docker Swarm**: Creating and managing swarms, deploying distributed services, auto-scaling, rolling updates, and failure monitoring.
+    > -   **Hands-on Labs and Final Assessment**: Applying concepts through interactive labs and a final exam to consolidate learning.
 
 -   GPXX0IWWEN - Voice Assistant OpenAI with IBM Watson - 08/03/2023 [**Voice Assistant OpenAI with IBM Watson**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Desenvolvimento de Chatbot com Voz**: Criação de um assistente pessoal inteligente com reconhecimento e síntese de voz, integrando as APIs Watson Speech-to-Text e Text-to-Speech.
-    > -   **Integração com GPT-3 (OpenAI)**: Conexão do chatbot ao modelo GPT-3 para respostas inteligentes e interativas, usando a API oficial da OpenAI.
-    > -   **Tecnologias Utilizadas**: Python, Flask, HTML, CSS, JavaScript e serviços em nuvem da IBM, com desenvolvimento realizado em ambiente virtual (IBM Skills Network Labs).
-    > -   **Funcionalidades Implementadas**: Entrada por voz, processamento de linguagem natural com GPT-3, resposta falada e interface web funcional.
-    > -   **(Opcional)** Implantação no IBM Cloud Code Engine para tornar o assistente acessível em produção em um ambiente serverless.
+    > -   **Voice Chatbot Development**: Creation of an intelligent personal assistant with voice recognition and synthesis, integrating IBM Watson Speech-to-Text and Text-to-Speech APIs.
+    > -   **Integration with GPT-3 (OpenAI)**: Connecting the chatbot to the GPT-3 model for intelligent and interactive responses, using the official OpenAI API.
+    > -   **Technologies Used**: Python, Flask, HTML, CSS, JavaScript, and IBM cloud services, developed in a virtual environment (IBM Skills Network Labs).
+    > -   **Implemented Features**: Voice input, natural language processing with GPT-3, spoken responses, and a functional web interface.
+    > -   **(Optional)** Deployment on IBM Cloud Code Engine to make the assistant accessible in production in a serverless environment.
 
 -   IBM - Watson Openscale Foundations - 19/02/2023 [**IBM - Watson Openscale Foundations**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
 
 -   GPXX0E8TEN **-** IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 [**Improve Customer Support with AI-powered Voice Services**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Desenvolvimento de Aplicação Interativa com IA**: Criação de um aplicativo de pedidos de pizza com suporte a voz, integrando modelos de aprendizado de máquina por meio de IA incorporável da IBM.
-    > -   **Implantação com Flask**: Uso do framework Flask para expor modelos de machine learning como serviços web acessíveis via uma interface de usuário intuitiva.
-    > -   **Aplicação Prática da IA**: Demonstração do potencial de soluções de IA para automatizar tarefas repetitivas, otimizando processos e liberando recursos humanos para funções de maior valor.
-    > -   **Habilidades Desenvolvidas**: Integração de bibliotecas de IA, desenvolvimento com Python e HTML, construção de frontends interativos e implantação de aplicações em ambientes produtivos.
-    > -   **Enfoque Empresarial**: Projeto com aplicação prática voltada a negócios, mostrando como IA pode ser incorporada de forma acessível e eficaz em sistemas corporativos.
+    > -   **Development of Interactive AI Application**: Building a voice-enabled pizza ordering app integrating machine learning models via IBM embedded AI.
+    > -   **Deployment with Flask**: Using the Flask framework to expose machine learning models as web services accessible through an intuitive user interface.
+    > -   **Practical AI Application**: Demonstrating AI solutions’ potential to automate repetitive tasks, optimize processes, and free human resources for higher-value roles.
+    > -   **Skills Developed**: AI library integration, development with Python and HTML, building interactive frontends, and deploying applications in production environments.
+    > -   **Business Focus**: Practical project showing how AI can be effectively and accessibly incorporated into corporate systems.
 
 -   DS0110EN - IBM - Open Data Foundations - 21/05/2023 [**IBM - DS0110EN - Open Data Foundations**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Conceitos Fundamentais da Ciência de Dados**: Definição da área, caminhos profissionais possíveis, o papel da nuvem e o impacto da ciência de dados no mercado moderno.
-    > -   **Atuação do Cientista de Dados**: Rotina profissional, comparação entre R e Python, principais ferramentas utilizadas e introdução a técnicas como regressão.
-    > -   **Ciência de Dados no Contexto Empresarial**: Estratégias para adoção da ciência de dados nas empresas, processos de recrutamento e definição de entregáveis eficazes.
-    > -   **Aplicações Práticas e Casos de Uso**: Exemplos reais de uso da ciência de dados em diversos setores, com foco em geração de valor a partir dos dados.
-    > -   **Perfil Profissional do Cientista de Dados**: Discussão sobre as características, habilidades e atitudes que definem um bom profissional da área.
-
+    > -   **Fundamentals of Data Science**: Definition of the field, career paths, the role of the cloud, and the impact of data science on the modern market.
+    > -   **Data Scientist Role**: Professional routine, comparison between R and Python, main tools, and introduction to techniques like regression.
+    > -   **Data Science in Business Context**: Strategies for adopting data science in companies, recruitment processes, and defining effective deliverables.
+    > -   **Practical Applications and Use Cases**: Real-world examples of data science use across sectors, focusing on value generation from data.
+    > -   **Professional Profile of Data Scientist**: Discussion of skills, attitudes, and traits that define a good data science professional.
+    
 -   DA0101EN - IBM - Data Analysis with Python - 18/06/2023 [**IBM - DA0101EN -Data Analysis with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Importação e Exploração de Dados**: Compreensão do domínio e dos dados, utilização de bibliotecas Python para importar, exportar e obter insights iniciais a partir de conjuntos de dados.
-    > -   **Limpeza e Preparação de Dados**: Tratamento de valores ausentes, normalização, discretização e criação de variáveis indicadoras para modelagem eficiente.
-    > -   **Análise Exploratória e Estatística Descritiva**: Uso de estatísticas, análise de variância (ANOVA), agrupamentos e correlações para entender relações entre variáveis.
-    > -   **Desenvolvimento de Modelos Preditivos**: Implementação de regressão linear (simples e múltipla), regressão polinomial, pipelines de modelagem e avaliação com métricas como R² e MSE.
-    > -   **Avaliação e Otimização de Modelos**: Abordagem de problemas como overfitting e underfitting, aplicação de regressão Ridge, busca em grade (Grid Search) e refinamento de modelos para melhor desempenho preditivo.
-
+    > -   **Data Import and Exploration**: Understanding domain and data, using Python libraries to import, export, and get initial insights from datasets.
+    > -   **Data Cleaning and Preparation**: Handling missing values, normalization, discretization, and creating indicator variables for efficient modeling.
+    > -   **Exploratory Analysis and Descriptive Statistics**: Using statistics, ANOVA, clustering, and correlations to understand relationships among variables.
+    > -   **Development of Predictive Models**: Implementing linear regression (simple and multiple), polynomial regression, modeling pipelines, and evaluation metrics like R² and MSE.
+    > -   **Model Evaluation and Optimization**: Addressing overfitting and underfitting, applying Ridge regression, grid search, and refining models for better predictive performance.
+    
 -   AI0117EN - IBM - Prompt Engineering for Everyone - 17/10/2023 [**IBM - AI0117EN - Prompt Engineering for Everyone**](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Fundamentos da Engenharia de Prompts**: Introdução ao conceito de prompts como uma nova forma de programar em linguagem natural, destacando sua importância e aplicações com modelos baseados em GPT.
-    > -   **Técnicas de Prompting**: Estudo prático de padrões como persona e entrevista, além da abordagem ingênua e das boas práticas para melhorar a precisão e relevância das respostas geradas por LLMs.
-    > -   **Cadeia e Árvore de Pensamento**: Implementação de técnicas como *Chain of Thought* e *Tree of Thought* para raciocínio estruturado e controle sobre o processo de geração de respostas.
-    > -   **Ajustes Avançados e Ferramentas IBM**: Aplicação de técnicas para controle de verbosidade, uso do sistema Nova, além de introdução ao Prompt Lab da plataforma IBM watsonx.
-    > -   **Projeto Prático Final (opcional)**: Integração dos conhecimentos em um projeto final opcional, voltado para aplicação prática e refinamento das habilidades em engenharia de prompts.
-
+    > -   **Foundations of Prompt Engineering**: Introduction to prompts as a new way to program in natural language, highlighting importance and applications with GPT-based models.
+    > -   **Prompting Techniques**: Practical study of patterns such as persona and interview, naive approach, and best practices to improve accuracy and relevance of responses generated by LLMs.
+    > -   **Chain and Tree of Thought**: Implementation of techniques like Chain of Thought and Tree of Thought for structured reasoning and control over response generation.
+    > -   **Advanced Adjustments and IBM Tools**: Applying techniques for verbosity control, using the Nova system, and introduction to IBM watsonx Prompt Lab.
+    > -   **Final Practical Project (optional)**: Integrating knowledge into an optional final project aimed at practical application and skill refinement in prompt engineering.
+    
 -   ML0101EN - IBM - Machine Learning with Python - 24/10/2023 [**ML0101EN - Machine Learning with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Aprendizado Supervisionado e Não Supervisionado**: Diferenças entre os paradigmas, abordando classificadores supervisionados (como KNN, árvores de decisão e florestas aleatórias) e técnicas não supervisionadas (como K-means, agrupamento hierárquico e baseado em densidade).
-    > -   **Modelos de Regressão e Avaliação de Desempenho**: Introdução aos algoritmos de regressão, métricas como erro quadrático médio (MSE), análise de overfitting e underfitting e comparação entre modelos.
-    > -   **Técnicas de Agrupamento**: Aplicação de métodos de agrupamento e análise das vantagens e desvantagens de cada técnica, com ênfase em sua aplicabilidade prática.
-    > -   **Redução de Dimensionalidade e Filtragem Colaborativa**: Exploração de métodos de extração e seleção de características, além de introdução à filtragem colaborativa e seus principais desafios em sistemas de recomendação.
-
+    > -   **Supervised and Unsupervised Learning**: Differences between paradigms, covering supervised classifiers (KNN, decision trees, random forests) and unsupervised techniques (K-means, hierarchical and density-based clustering).
+    > -   **Regression Models and Performance Evaluation**: Introduction to regression algorithms, metrics like mean squared error (MSE), overfitting/underfitting analysis, and model comparison.
+    > -   **Clustering Techniques**: Application of clustering methods and analysis of advantages and disadvantages of each, focusing on practical applicability.
+    > -   **Dimensionality Reduction and Collaborative Filtering**: Exploring feature extraction and selection methods, plus introduction to collaborative filtering and challenges in recommendation systems.
+    
 -   DV0101EN - IBM - Data Visualization with Python - 31/20/2023 [**DV0101EN - Data Visualization with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Fundamentos da Visualização de Dados**: Introdução aos conceitos e ferramentas de visualização utilizando bibliotecas como Matplotlib, com aplicação em conjuntos de dados reais, como imigração no Canadá.
-    > -   **Gráficos Básicos e Intermediários**: Criação e personalização de gráficos de linha, área, histogramas, gráficos de barras, pizza, caixas, dispersão e bolhas.
-    > -   **Técnicas Avançadas de Visualização**: Implementação de gráficos de waffle, nuvens de palavras e gráficos de regressão com a biblioteca Seaborn.
-    > -   **Visualização Geoespacial com Folium**: Criação de mapas interativos com marcadores e mapas coropléticos para análise de dados geográficos.
-
+    > -   **Fundamentals of Data Visualization**: Introduction to concepts and visualization tools using libraries like Matplotlib, applied to real datasets such as Canadian immigration.
+    > -   **Basic and Intermediate Charts**: Creating and customizing line, area, histogram, bar, pie, box, scatter, and bubble charts.
+    > -   **Advanced Visualization Techniques**: Implementing waffle charts, word clouds, and regression plots with Seaborn.
+    > -   **Geospatial Visualization with Folium**: Creating interactive maps with markers and choropleth maps for geographic data analysis.
+    
 -   ML103EN - IBM - Digital Analytics & Regression - Cognitive Class [**ML103EN - Digital Analytics & Regression**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Abordagem baseada em Estudo de Caso**: Aplicação prática do ciclo completo da ciência de dados — da definição do problema de negócios até a apresentação de insights.
-    > -   **Planejamento e Design de Projetos de Dados**: Identificação de objetivos estratégicos, definição do escopo analítico e planejamento de modelos baseados em dados.
-    > -   **Aquisição e Manipulação de Dados**: Coleta e preparação de dados relevantes, mesmo em volumes variados (grandes, médios ou pequenos).
-    > -   **Modelagem e Análise com R**: Desenvolvimento de scripts e modelos estatísticos utilizando a linguagem R para gerar insights relevantes.
-    > -   **Apresentação de Resultados**: Comunicação eficaz de descobertas para públicos não técnicos, com foco em tomada de decisão empresarial.
-    > -   **Metáfora do Triatlo de Ciência de Dados**: Equilíbrio entre habilidades de programação (ciclismo), conhecimento de domínio e comunicação (corrida) e estatística/modelagem (natação), incentivando o desenvolvimento como profissional completo.
-
+    > -   **Case Study-based Approach**: Practical application of the full data science cycle — from business problem definition to insight presentation.
+    > -   **Planning and Design of Data Projects**: Identification of strategic objectives, analytical scope definition, and planning data-driven models.
+    > -   **Data Acquisition and Manipulation**: Collection and preparation of relevant data across large, medium, or small volumes.
+    > -   **Modeling and Analysis with R**: Development of scripts and statistical models using R to generate relevant insights.
+    > -   **Results Presentation**: Effective communication of findings to non-technical audiences, focusing on business decision-making.
+    > -   **Data Science Triathlon Metaphor**: Balancing programming skills (cycling), domain knowledge and communication (running), and statistics/modeling (swimming) to encourage full professional development.
+    
 -   PA0101EN - IBM - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 [**PA0101EN - Predictive Modeling Fundamentals I**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   **Introdução à Modelagem Preditiva**: Compreensão dos conceitos fundamentais, aplicações práticas e benefícios do uso de modelos preditivos.
-    > -   **Metodologia CRISP-DM**: Aplicação da metodologia padrão da indústria para projetos de ciência de dados — incluindo entendimento do negócio, preparação dos dados, modelagem, avaliação e implementação.
-    > -   **Técnicas Comuns de Modelagem**: Exploração de algoritmos estatísticos e de machine learning amplamente utilizados na modelagem preditiva.
-    > -   **Uso do IBM SPSS Modeler**: Aplicação prática da ferramenta para análise de dados, construção de modelos e avaliação de desempenho preditivo.
-    > -   **Competição Kaggle (caso prático)**: Resolução de um problema real de ciência de dados em uma plataforma pública, desde a preparação dos dados até a avaliação dos resultados.
-
+    > -   **Introduction to Predictive Modeling**: Understanding fundamental concepts, practical applications, and benefits of predictive models.
+    > -   **CRISP-DM Methodology**: Application of the industry standard data science project methodology — including business understanding, data preparation, modeling, evaluation, and deployment.
+    > -   **Common Modeling Techniques**: Exploration of widely used statistical and machine learning algorithms in predictive modeling.
+    > -   **Using IBM SPSS Modeler**: Practical application of the tool for data analysis, model building, and predictive performance evaluation.
+    > -   **Kaggle Competition (Practical Case)**: Solving a real data science problem on a public platform, from data preparation to result evaluation.
+    
 -   QC0101EN - IBM - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 [**QC0101EN - Introduction to Quantum Computing**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   Exploração dos fundamentos da mecânica quântica por meio de laboratórios interativos sobre:
-    > -   Superposição quântica
-    > -   Entrelaçamento quântico
-    > -   Princípio da incerteza
-    > -   Aplicação prática e reflexões no contexto do “Salão das Maravilhas”
+    > -   **Exploration of quantum mechanics fundamentals through interactive labs on:**
+    > -   **Quantum superposition**
+    > -   **Quantum entanglement**
+    > -   **Uncertainty principle**
+    > -   **Practical applications and reflections in the “Hall of Wonders” context**
 
 -   SE0101EN - IBM - Fundamentals of Encryption & Quantum-Safe Techniques - Cognitive Class - 22/12/2023 [**SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques**](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/SE0101EN%20-%20Fundamentals%20of%20Encryption%20%26%20Quantum-Safe%20Techniques%20-%20Cognitive%20Class.png)
 
-    > Resumo dos principais tópicos abordados:
+    > **Summary of main topics covered:**
     >
-    > -   Fundamentos da criptografia: tipos, gestão de chaves e histórico, incluindo contribuições da IBM.
-    > -   Introdução à era quântica: impacto dos computadores quânticos e desafios para a segurança da informação.
-    > -   Criptografia resistente à computação quântica (Quantum-safe): estratégias para proteger dados, incluindo inventário criptográfico, adaptação e agilidade em criptografia.
-    > -   Soluções IBM para segurança quântica e preparação para o futuro da cibersegurança.
-  
+    > -   Fundamentals of cryptography: types, key management, and history, including IBM contributions.
+    > -   Introduction to the quantum era: impact of quantum computers and information security challenges.
+    > -   Quantum-safe cryptography: strategies to protect data, including cryptographic inventory, adaptation, and agility in cryptography.
+    > -   IBM solutions for quantum security and preparation for the future of cybersecurity.
+
+
   
 ### Badges
 
