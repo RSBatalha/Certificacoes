@@ -18,29 +18,198 @@ Concatenando os arquivos para incluir em meu Curriculo
  
  ## IBM
 
-  * BD0101EN - Big Data 101 - Cognitive Class - 22/10/2019 **[BD0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/BD0101EN%20-%20Big%20Data%20101%20-%20Cognitive%20Class.png)**
-  * DS0101EN - Introduction to  Data Science - Cognitive Class - 24/07/2019 **[DS0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0101EN%20-%20Introduction%20to%20%20Data%20Science%20-%20Cognitive%20Class.png)**
-  * DS0103EN - Data Science Methodology - Cognitive Class - 12/08/2019 **[DS0103EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0103EN%20-%20Data%20Science%20Methodology%20-%20Cognitive%20Class.png)**
-  * DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 **[Data Science Hands-On wiyh Open Source Tools](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
-  * PY0101EN - Python 101 for Data Science - Cognitive Class - 17/09/2019 **[PY0101EN - Python 101 for Data Science](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PY0101EN%20-%20Python%20101%20for%20Data%20Science%20-%20Cognitive%20Class.png)**
-  * DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 **[DS0301EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)**
-  * RP0101EN - R 101 - Cognitive Class - 13/10/2019 **[RP0101EN](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)**
-  * IBM - Artificial Intelligence Concepts 09/01/2023 **[IBM - Artificial Intelligence Concepts](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)**
-  * CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023  **[CO0101EN - Docker Essentials](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)**
-  * Voice Assistant OpenAI with IBM Watson - 08/03/2023  **[Voice Assistant OpenAI with IBM Watson](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)**
-  * IBM - Watson Openscale Foundations - 19/02/2023 **[IBM - Watson Openscale Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)**
-  * IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 **[Improve Customer Support with AI-powered Voice Services](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)**
-  * IBM - DS0110EN - Open Data Foundations - 21/05/2023 **[IBM - DS0110EN - Open Data Foundations](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)**
-  * IBM - DA0101EN -Data Analysis with Python - 18/06/2023 **[ IBM - DA0101EN -Data Analysis with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - AI0117EN - Prompt Engineering for Everyone - 17/10/2023 **[IBM - AI0117EN - Prompt Engineering for Everyone](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)**
-  * IBM - ML0101EN - Machine Learning with Python - 24/10/2023 **[ML0101EN - Machine Learning with Python ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - DV0101EN - Data Visualization with Python - 31/20/2023 **[DV0101EN - Data Visualization with Python](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)**
-  * IBM - ML103EN - Digital Analytics & Regression - Cognitive Class **[ML103EN - Digital Analytics & Regression](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)**
-  * IBM - PA0101EN - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 **[PA0101EN - Predictive Modeling Fundamentals I](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)**
-  * IBM - QC0101EN - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 **[QC0101EN - Introduction to Quantum Computing ](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)**
-  * IBM - SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques - Cognitive Class - 22/12/2023 **[SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/SE0101EN%20-%20Fundamentals%20of%20Encryption%20%26%20Quantum-Safe%20Techniques%20-%20Cognitive%20Class.png)**
 
+-   BD0101EN - Big Data 101 - Cognitive Class - 22/10/2019 [**BD0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/BD0101EN%20-%20Big%20Data%20101%20-%20Cognitive%20Class.png)
 
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Introdução ao Big Data**: Conceitos fundamentais, características principais e os 5 V’s (Volume, Velocidade, Variedade, Veracidade e Valor), além de seu impacto nos negócios e na sociedade.
+    > -   **Aplicações e Fontes de Big Data**: Estudo de casos reais, principais fontes de dados e a evolução da adoção do Big Data nas organizações.
+    > -   **Big Data e Ciência de Dados**: Integração entre plataformas de Big Data e processos de Ciência de Dados, além das competências necessárias para cientistas de dados.
+    > -   **Casos de Uso Corporativos**: Aplicações práticas como visão 360° do cliente, segurança da informação, inteligência de mercado e análise de operações.
+    > -   **Tecnologias e Processamento de Dados**: Ecossistemas modernos de Big Data com foco no framework Hadoop e demais ferramentas de processamento massivo de dados.
+
+-   DS0101EN - Introduction to Data Science - Cognitive Class - 24/07/2019 [**DS0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0101EN%20-%20Introduction%20to%20%20Data%20Science%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Conceitos Fundamentais**: Definição de ciência de dados, múltiplos caminhos de carreira na área, uso da computação em nuvem e a relevância crescente do papel do cientista de dados no cenário atual.
+    > -   **Rotina e Ferramentas**: Atividades diárias de um profissional da área, comparação entre R e Python, além das principais ferramentas e tecnologias utilizadas em projetos de ciência de dados.
+    > -   **Aplicações no Mundo Corporativo**: Como empresas podem adotar a ciência de dados, estratégias de recrutamento e definição de entregáveis em projetos analíticos.
+    > -   **Casos de Uso e Aplicações Práticas**: Exemplos reais de aplicação da ciência de dados em diversos contextos, incluindo estruturação de relatórios e geração de valor por meio da análise de dados.
+    > -   **Perfil Profissional**: Discussão sobre as competências, comportamentos e habilidades que definem um cientista de dados de sucesso.
+
+-   DS0103EN - Data Science Methodology - Cognitive Class - 12/08/2019 [**DS0103EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0103EN%20-%20Data%20Science%20Methodology%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Definição do Problema e Estratégia Analítica**: Técnicas para entender o contexto de negócio e transformar problemas reais em abordagens analíticas eficazes.
+    > -   **Coleta de Dados**: Identificação de requisitos e estratégias de aquisição de dados relevantes para análise.
+    > -   **Compreensão e Preparação dos Dados**: Análise exploratória e etapas de limpeza, transformação e formatação dos dados para modelagem.
+    > -   **Modelagem e Avaliação**: Construção de modelos estatísticos ou de machine learning e validação de sua performance.
+    > -   **Implementação e Feedback**: Implantação de soluções analíticas no ambiente de negócios e avaliação contínua por meio de feedback.
+
+-   DS0105EN - Data Science Hands-On wiyh Open Source Tools - Cognitive Class - 29/07/2019 [**Data Science Hands-On wiyh Open Source Tools**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Linguagens e Ferramentas Essenciais**: Introdução às principais linguagens utilizadas em ciência de dados, como Python e R, e suas aplicações práticas.
+    > -   **Ecossistema de Ciência de Dados**: Utilização de pacotes, APIs, conjuntos de dados e modelos, com foco na integração entre ferramentas.
+    > -   **Ambientes de Desenvolvimento**: Exploração de plataformas como GitHub, Jupyter Notebooks/JupyterLab, RStudio IDE e IBM Watson Studio, com foco em versionamento, colaboração e experimentação de projetos analíticos.
+
+-   PY0101EN - Python 101 for Data Science - Cognitive Class - 17/09/2019 [**PY0101EN - Python 101 for Data Science**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PY0101EN%20-%20Python%20101%20for%20Data%20Science%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Fundamentos da Linguagem Python**: Criação de programas básicos, tipos de dados, variáveis, expressões e manipulação de strings.
+    > -   **Estruturas de Dados**: Uso prático de listas, tuplas, conjuntos e dicionários para organização e processamento de informações.
+    > -   **Lógica de Programação**: Estruturas condicionais, laços de repetição, funções e introdução à programação orientada a objetos.
+    > -   **Manipulação de Dados com Python**: Leitura e escrita de arquivos, uso da biblioteca Pandas para carregamento, tratamento e exportação de dados.
+    > -   **NumPy e Integração com APIs**: Trabalho com arrays unidimensionais e bidimensionais usando NumPy e consumo de APIs simples com Python.
+
+-   DS0301EN - Data Privacy Fundamentals - Cognitive Class - 05/11/2019 [**DS0301EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0105EN%20-%20Data%20Science%20Hands-On%20wiyh%20Open%20Source%20Tools%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Leis de Privacidade no Canadá**: Introdução às normas canadenses de proteção de dados, incluindo análise do caso de vazamento de dados de empréstimos estudantis envolvendo o HRSDC.
+    > -   **PIPEDA e Regulação de Dados Pessoais**: Estudo da Lei de Proteção de Informações Pessoais e Documentos Eletrônicos (PIPEDA) e análise do caso Target, que expôs dados de milhões de clientes nos EUA.
+    > -   **Privacidade por Design**: Exploração dos 7 Princípios Fundamentais da Dra. Ann Cavoukian para integrar a privacidade à arquitetura de sistemas, com estudos de caso reais (Think W3 e Doritex).
+    > -   **Violações de Segurança e Senhas**: Impactos e vulnerabilidades relacionadas ao uso de senhas, ilustrados pelo caso Home Depot e seu vazamento massivo de dados de pagamento.
+
+-   RP0101EN - R 101 - Cognitive Class - 13/10/2019 [**RP0101EN**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/RP0101EN%20-%20R%20101%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Fundamentos da Linguagem R**: Conceitos matemáticos básicos, manipulação de variáveis, strings, vetores e fatores, além de operações vetoriais.
+    > -   **Estruturas de Dados em R**: Uso prático de arrays, matrizes, listas e dataframes para organização e análise de dados.
+    > -   **Programação em R**: Controle de fluxo com condições e laços, criação de funções, conceitos de orientação a objetos e técnicas de depuração.
+    > -   **Leitura e Escrita de Dados**: Importação de arquivos CSV, Excel e texto, além da exportação de objetos em diferentes formatos.
+    > -   **Trabalho com Strings e Datas**: Manipulação de textos com expressões regulares e tratamento de datas no ambiente R.
+
+-   IBM - Artificial Intelligence Concepts 09/01/2023 [**IBM - Artificial Intelligence Concepts**](https://github.com/RSBatalha/Certificacoes/raw/main/IBM/IBM%20-%20Artificial%20Intelligence%20Concepts.png)
+
+    > Resumo dos principais tópicos abordados:
+
+-   CO0101EN - Docker Essentials, A Developer Introduction - 24/02/2023 [**CO0101EN - Docker Essentials**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/CO0101EN%20-%20Docker%20Essentials%2C%20A%20Developer%20Introduction.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Fundamentos de Contêineres e Docker**: Conceitos essenciais de contêineres, instalação do Docker, execução e gerenciamento de contêineres de forma prática.
+    > -   **Criação e Gerenciamento de Imagens Docker**: Desenvolvimento de aplicações com Python, construção de imagens Docker personalizadas, envio para registros centrais e versionamento de alterações com foco em práticas de CI/CD.
+    > -   **Orquestração com Docker Swarm**: Criação e gerenciamento de swarms, implantação de serviços distribuídos, escalonamento automático, atualizações contínuas e monitoramento de falhas.
+    > -   **Laboratórios Práticos e Avaliação Final**: Aplicação de conceitos por meio de laboratórios interativos e exame final para consolidação do aprendizado.
+
+-   GPXX0IWWEN - Voice Assistant OpenAI with IBM Watson - 08/03/2023 [**Voice Assistant OpenAI with IBM Watson**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Voice%20Assistant_Open_AI_with_IBM_Watson.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Desenvolvimento de Chatbot com Voz**: Criação de um assistente pessoal inteligente com reconhecimento e síntese de voz, integrando as APIs Watson Speech-to-Text e Text-to-Speech.
+    > -   **Integração com GPT-3 (OpenAI)**: Conexão do chatbot ao modelo GPT-3 para respostas inteligentes e interativas, usando a API oficial da OpenAI.
+    > -   **Tecnologias Utilizadas**: Python, Flask, HTML, CSS, JavaScript e serviços em nuvem da IBM, com desenvolvimento realizado em ambiente virtual (IBM Skills Network Labs).
+    > -   **Funcionalidades Implementadas**: Entrada por voz, processamento de linguagem natural com GPT-3, resposta falada e interface web funcional.
+    > -   **(Opcional)** Implantação no IBM Cloud Code Engine para tornar o assistente acessível em produção em um ambiente serverless.
+
+-   IBM - Watson Openscale Foundations - 19/02/2023 [**IBM - Watson Openscale Foundations**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Watson_OpenScale_Foundations.png)
+
+    > Resumo dos principais tópicos abordados:
+
+-   GPXX0E8TEN **-** IBM - Improve Customer Support with AI-powered Voice Services - 08/03/2023 [**Improve Customer Support with AI-powered Voice Services**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/Improve%20Customer%20Support%20with%20AI-powered%20Voice%20Services%20GPXX0E8TEN.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Desenvolvimento de Aplicação Interativa com IA**: Criação de um aplicativo de pedidos de pizza com suporte a voz, integrando modelos de aprendizado de máquina por meio de IA incorporável da IBM.
+    > -   **Implantação com Flask**: Uso do framework Flask para expor modelos de machine learning como serviços web acessíveis via uma interface de usuário intuitiva.
+    > -   **Aplicação Prática da IA**: Demonstração do potencial de soluções de IA para automatizar tarefas repetitivas, otimizando processos e liberando recursos humanos para funções de maior valor.
+    > -   **Habilidades Desenvolvidas**: Integração de bibliotecas de IA, desenvolvimento com Python e HTML, construção de frontends interativos e implantação de aplicações em ambientes produtivos.
+    > -   **Enfoque Empresarial**: Projeto com aplicação prática voltada a negócios, mostrando como IA pode ser incorporada de forma acessível e eficaz em sistemas corporativos.
+
+-   DS0110EN - IBM - Open Data Foundations - 21/05/2023 [**IBM - DS0110EN - Open Data Foundations**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DS0110EN%20-%20Open%20Data%20Foundations.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Conceitos Fundamentais da Ciência de Dados**: Definição da área, caminhos profissionais possíveis, o papel da nuvem e o impacto da ciência de dados no mercado moderno.
+    > -   **Atuação do Cientista de Dados**: Rotina profissional, comparação entre R e Python, principais ferramentas utilizadas e introdução a técnicas como regressão.
+    > -   **Ciência de Dados no Contexto Empresarial**: Estratégias para adoção da ciência de dados nas empresas, processos de recrutamento e definição de entregáveis eficazes.
+    > -   **Aplicações Práticas e Casos de Uso**: Exemplos reais de uso da ciência de dados em diversos setores, com foco em geração de valor a partir dos dados.
+    > -   **Perfil Profissional do Cientista de Dados**: Discussão sobre as características, habilidades e atitudes que definem um bom profissional da área.
+
+-   DA0101EN - IBM - Data Analysis with Python - 18/06/2023 [**IBM - DA0101EN -Data Analysis with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DA0101EN%20-Data%20Analysis%20with%20Python%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Importação e Exploração de Dados**: Compreensão do domínio e dos dados, utilização de bibliotecas Python para importar, exportar e obter insights iniciais a partir de conjuntos de dados.
+    > -   **Limpeza e Preparação de Dados**: Tratamento de valores ausentes, normalização, discretização e criação de variáveis indicadoras para modelagem eficiente.
+    > -   **Análise Exploratória e Estatística Descritiva**: Uso de estatísticas, análise de variância (ANOVA), agrupamentos e correlações para entender relações entre variáveis.
+    > -   **Desenvolvimento de Modelos Preditivos**: Implementação de regressão linear (simples e múltipla), regressão polinomial, pipelines de modelagem e avaliação com métricas como R² e MSE.
+    > -   **Avaliação e Otimização de Modelos**: Abordagem de problemas como overfitting e underfitting, aplicação de regressão Ridge, busca em grade (Grid Search) e refinamento de modelos para melhor desempenho preditivo.
+
+-   AI0117EN - IBM - Prompt Engineering for Everyone - 17/10/2023 [**IBM - AI0117EN - Prompt Engineering for Everyone**](https://github.com/RSBatalha/Certificacoes/blob/e6f3c3954571fe77babb00464d90415615564894/IBM/AI0117EN%20-%20Prompt%20Engineering%20for%20Everyone.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Fundamentos da Engenharia de Prompts**: Introdução ao conceito de prompts como uma nova forma de programar em linguagem natural, destacando sua importância e aplicações com modelos baseados em GPT.
+    > -   **Técnicas de Prompting**: Estudo prático de padrões como persona e entrevista, além da abordagem ingênua e das boas práticas para melhorar a precisão e relevância das respostas geradas por LLMs.
+    > -   **Cadeia e Árvore de Pensamento**: Implementação de técnicas como *Chain of Thought* e *Tree of Thought* para raciocínio estruturado e controle sobre o processo de geração de respostas.
+    > -   **Ajustes Avançados e Ferramentas IBM**: Aplicação de técnicas para controle de verbosidade, uso do sistema Nova, além de introdução ao Prompt Lab da plataforma IBM watsonx.
+    > -   **Projeto Prático Final (opcional)**: Integração dos conhecimentos em um projeto final opcional, voltado para aplicação prática e refinamento das habilidades em engenharia de prompts.
+
+-   ML0101EN - IBM - Machine Learning with Python - 24/10/2023 [**ML0101EN - Machine Learning with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML0101EN%20-%20Machine%20Learning%20with%20Python%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Aprendizado Supervisionado e Não Supervisionado**: Diferenças entre os paradigmas, abordando classificadores supervisionados (como KNN, árvores de decisão e florestas aleatórias) e técnicas não supervisionadas (como K-means, agrupamento hierárquico e baseado em densidade).
+    > -   **Modelos de Regressão e Avaliação de Desempenho**: Introdução aos algoritmos de regressão, métricas como erro quadrático médio (MSE), análise de overfitting e underfitting e comparação entre modelos.
+    > -   **Técnicas de Agrupamento**: Aplicação de métodos de agrupamento e análise das vantagens e desvantagens de cada técnica, com ênfase em sua aplicabilidade prática.
+    > -   **Redução de Dimensionalidade e Filtragem Colaborativa**: Exploração de métodos de extração e seleção de características, além de introdução à filtragem colaborativa e seus principais desafios em sistemas de recomendação.
+
+-   DV0101EN - IBM - Data Visualization with Python - 31/20/2023 [**DV0101EN - Data Visualization with Python**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/DV0101EN%20-%20Data%20Visualization%20with%20Python%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Fundamentos da Visualização de Dados**: Introdução aos conceitos e ferramentas de visualização utilizando bibliotecas como Matplotlib, com aplicação em conjuntos de dados reais, como imigração no Canadá.
+    > -   **Gráficos Básicos e Intermediários**: Criação e personalização de gráficos de linha, área, histogramas, gráficos de barras, pizza, caixas, dispersão e bolhas.
+    > -   **Técnicas Avançadas de Visualização**: Implementação de gráficos de waffle, nuvens de palavras e gráficos de regressão com a biblioteca Seaborn.
+    > -   **Visualização Geoespacial com Folium**: Criação de mapas interativos com marcadores e mapas coropléticos para análise de dados geográficos.
+
+-   ML103EN - IBM - Digital Analytics & Regression - Cognitive Class [**ML103EN - Digital Analytics & Regression**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/ML103EN%20-%20Digital%20Analytics%20%26%20Regression%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Abordagem baseada em Estudo de Caso**: Aplicação prática do ciclo completo da ciência de dados — da definição do problema de negócios até a apresentação de insights.
+    > -   **Planejamento e Design de Projetos de Dados**: Identificação de objetivos estratégicos, definição do escopo analítico e planejamento de modelos baseados em dados.
+    > -   **Aquisição e Manipulação de Dados**: Coleta e preparação de dados relevantes, mesmo em volumes variados (grandes, médios ou pequenos).
+    > -   **Modelagem e Análise com R**: Desenvolvimento de scripts e modelos estatísticos utilizando a linguagem R para gerar insights relevantes.
+    > -   **Apresentação de Resultados**: Comunicação eficaz de descobertas para públicos não técnicos, com foco em tomada de decisão empresarial.
+    > -   **Metáfora do Triatlo de Ciência de Dados**: Equilíbrio entre habilidades de programação (ciclismo), conhecimento de domínio e comunicação (corrida) e estatística/modelagem (natação), incentivando o desenvolvimento como profissional completo.
+
+-   PA0101EN - IBM - Predictive Modeling Fundamentals I - Cognitive Class - 17/07/2023 [**PA0101EN - Predictive Modeling Fundamentals I**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/PA0101EN%20-%20Predictive%20Modeling%20Fundamentals%20I.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   **Introdução à Modelagem Preditiva**: Compreensão dos conceitos fundamentais, aplicações práticas e benefícios do uso de modelos preditivos.
+    > -   **Metodologia CRISP-DM**: Aplicação da metodologia padrão da indústria para projetos de ciência de dados — incluindo entendimento do negócio, preparação dos dados, modelagem, avaliação e implementação.
+    > -   **Técnicas Comuns de Modelagem**: Exploração de algoritmos estatísticos e de machine learning amplamente utilizados na modelagem preditiva.
+    > -   **Uso do IBM SPSS Modeler**: Aplicação prática da ferramenta para análise de dados, construção de modelos e avaliação de desempenho preditivo.
+    > -   **Competição Kaggle (caso prático)**: Resolução de um problema real de ciência de dados em uma plataforma pública, desde a preparação dos dados até a avaliação dos resultados.
+
+-   QC0101EN - IBM - Introduction to Quantum Computing - Cognitive Class - 1/12/2023 [**QC0101EN - Introduction to Quantum Computing**](https://github.com/RSBatalha/Certificacoes/blob/main/IBM/QC0101EN%20-%20Introduction%20to%20Quantum%20Computing%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   Exploração dos fundamentos da mecânica quântica por meio de laboratórios interativos sobre:
+    > -   Superposição quântica
+    > -   Entrelaçamento quântico
+    > -   Princípio da incerteza
+    > -   Aplicação prática e reflexões no contexto do “Salão das Maravilhas”
+
+-   SE0101EN - IBM - Fundamentals of Encryption & Quantum-Safe Techniques - Cognitive Class - 22/12/2023 [**SE0101EN - Fundamentals of Encryption & Quantum-Safe Techniques**](https://raw.githubusercontent.com/RSBatalha/Certificacoes/main/IBM/SE0101EN%20-%20Fundamentals%20of%20Encryption%20%26%20Quantum-Safe%20Techniques%20-%20Cognitive%20Class.png)
+
+    > Resumo dos principais tópicos abordados:
+    >
+    > -   Fundamentos da criptografia: tipos, gestão de chaves e histórico, incluindo contribuições da IBM.
+    > -   Introdução à era quântica: impacto dos computadores quânticos e desafios para a segurança da informação.
+    > -   Criptografia resistente à computação quântica (Quantum-safe): estratégias para proteger dados, incluindo inventário criptográfico, adaptação e agilidade em criptografia.
+    > -   Soluções IBM para segurança quântica e preparação para o futuro da cibersegurança.
   
   
 ### Badges
